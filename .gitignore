@@ -1,0 +1,17 @@
+# IntelliJ IDEA / JetBrains IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Build output
+out/
+target/
+build/
+
+# Compiled class files
+*.class
+
+# OS files
+.DS_Store
+Thumbs.db
