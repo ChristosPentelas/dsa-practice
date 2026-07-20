@@ -36,7 +36,7 @@ public class removeElement {
             }
         }
 
-        System.out.println("Test passed: " + passed);
+        System.out.println("Test Passed: " + passed);
         System.out.println("Array: " + Arrays.toString(nums));
     }
 }
